@@ -26,6 +26,7 @@ void snowPollute:: Display(string s)
 }
 void snowPollute:: Composition()
 {
+	//testcomment
 }
 void snowPollute:: Deskis()
 {
